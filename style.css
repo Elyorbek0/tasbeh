@@ -1,0 +1,46 @@
+.flex{
+    margin-top: 100px;
+    background: url(./unnamed.png);
+    background-repeat:no-repeat;
+    margin: auto;
+    width: 449px;
+    height: 492px;
+}
+
+
+
+.count{
+    margin-left: 155px;
+    width: 201px;
+    height: 102px;
+    font-size: 70px;
+    border: none;
+    background: green;
+    color: aliceblue;
+    cursor: pointer;
+    margin-top: 98px;
+    margin-right: 73px;
+}
+
+.reset{
+    margin-left: 319px;
+    margin-top: 12px;
+    width: 39px;
+    height: 39px;
+    font-size: 20px;
+    background-color: indigo;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.start{
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    margin-right: 60px;
+    margin-top: -2px;
+    background-color: indigo;
+    border: none;
+    margin-left: 177px;
+}
